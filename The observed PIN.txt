@@ -1,0 +1,4 @@
+def get_pins(observed):
+    keyboard = [[1,2,3],[4,5,6][7,8,9],[None, 0, None]]
+    
+    pass # TODO: This is your job, detective! 
